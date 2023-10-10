@@ -1,3 +1,4 @@
 ### dependency
 streamlit
+xgboost==2.0.0
 
